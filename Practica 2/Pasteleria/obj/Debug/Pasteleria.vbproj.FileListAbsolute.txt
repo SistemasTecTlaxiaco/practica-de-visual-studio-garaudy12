@@ -1,0 +1,12 @@
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\bin\Debug\Pasteleria.exe.config
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\bin\Debug\Pasteleria.exe
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\bin\Debug\Pasteleria.pdb
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\bin\Debug\Pasteleria.xml
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.vbprojAssemblyReference.cache
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.Resources.resources
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.vbproj.GenerateResource.cache
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.vbproj.CoreCompileInputs.cache
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.exe
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.xml
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.pdb
+C:\Users\Garau\source\repos\Practica 2\Pasteleria\obj\Debug\Pasteleria.Form1.resources
